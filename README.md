@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangowatz)](https://github.com/Mangowatz/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangowatz)](https://github.com/Mangowatz/github-readme-stats)
 
