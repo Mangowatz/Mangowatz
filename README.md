@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangowatz)](https://github.com/Mangowatz/github-readme-stats)
+Please feel free to browse my repos and you can check my LinkedIn for more!
 
 
 <!--
