@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Please feel free to browse my repos and you can check my LinkedIn for more!
+Please feel free to browse my repos and you can check my [LinkedIn](https://www.linkedin.com/in/zachary-mankowitz-a4a11324a/) for more!
 
 
 <!--
